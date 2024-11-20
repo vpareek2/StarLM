@@ -1,0 +1,12 @@
+__init__.py
+__pycache__
+plan.txt
+flexformer-env
+.DS_Store
+old/
+tokenizer.model
+1B-Instruct-weights
+.ropeproject/
+.zed/
+.ropeproject/
+.mypy_cache
