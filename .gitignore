@@ -10,3 +10,6 @@ tokenizer.model
 .zed/
 .ropeproject/
 .mypy_cache
+notes.txt
+options.txt
+testing.txt
